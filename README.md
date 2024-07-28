@@ -1,5 +1,5 @@
 # G Linski
-
+<img align="center" src="./assets/img/bannerWheat.jpg" width="100%" height="300"/>
 ## About Me:
   <p>
   Hey I'm Gabe. A programmer from Canada. Currently working through a program 
