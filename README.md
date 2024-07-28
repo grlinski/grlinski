@@ -45,7 +45,7 @@
   | Paragraph | Text |
 
 ## The Stats Portion
-  ![g-linski's Stats](https://github-readme-stats.vercel.app/api?username=g-linski&theme=vue&show_icons=true&hide_border=true&count_private=true)
+  ![g-linski's Stats](https://github-readme-stats.vercel.app/api?username=grlinski&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 
 
